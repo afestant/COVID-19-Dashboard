@@ -129,5 +129,6 @@ dmypy.json
 .pyre/
 
 data/
+corona-app/data/
 test_app.ipynb
 test_dashboard.ipynb
